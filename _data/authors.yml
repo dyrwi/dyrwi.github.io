@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Ben Wilson:
+  name        : "Ben Wilson"
+  bio         : "Site Administrator"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ben.soggybread@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://webapphack.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dyrwi"
