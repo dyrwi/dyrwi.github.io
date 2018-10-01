@@ -1,19 +1,16 @@
 ---
-title: "Splash Page"
+title: "Index"
 layout: splash
 permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+date: 2018-10-01
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Learn More"
-      url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "IT Security blog covering Vulnerable hosts, web application hacking techniques and tips, random thoughts and more...""
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Posts'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -59,6 +56,10 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
