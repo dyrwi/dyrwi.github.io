@@ -2,6 +2,10 @@
 title:  "Hello World - Syntax Highlighting"
 excerpt: "Post displaying the various ways of highlighting code in Markdown."
 author: Ben Wilson
+classes: wide
+toc: true
+toc_label: "My contents"
+toc_icon = "cog"
 ---
 
 # Welcome
