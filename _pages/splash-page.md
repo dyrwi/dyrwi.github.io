@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "IT Security blog covering Vulnerable hosts, web application hacking techniques and tips, random thoughts and more...""
+excerpt: "IT Security blog covering Vulnerable hosts, web application hacking techniques and tips, random thoughts and more..."
 intro: 
   - excerpt: 'Posts'
 feature_row:
