@@ -5,14 +5,14 @@ author: Ben Wilson
 classes: wide
 toc: true
 toc_label: "My contents"
-toc_icon = "cog"
+toc_icon: "cog"
 ---
 
 # Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
-I hope you like it! Wow
+I hope you like it! Wow I have now changed it
 
 ### Jekyll Highlight Tag
 
