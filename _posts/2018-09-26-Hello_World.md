@@ -12,7 +12,9 @@ toc_icon: "cog"
 
 **Hello world**, this is my first Jekyll blog post.
 
-I hope you like it! Wow I have now changed it
+I hope you like it! Wow I have now changed it.
+
+So this is automatically changing the code on the back end.
 
 ### Jekyll Highlight Tag
 

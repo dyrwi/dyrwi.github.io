@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "IT Security blog covering Vulnerable hosts, web application hacking techniques and tips, random thoughts and more..."
 intro: 
-  - excerpt: 'Posts'
+  - excerpt: 'Recent Posts'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
