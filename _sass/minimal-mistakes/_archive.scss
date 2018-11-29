@@ -30,6 +30,11 @@
   }
 }
 
+.archive__bottom_border {
+  border-bottom: 1px solid $border-color;
+}
+
+
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
